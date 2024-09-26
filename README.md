@@ -1,5 +1,3 @@
 # Thyme
 
-Thyme is a timer for OS X. It's as simple as that.
-
-http://joaomoreno.github.io/thyme/
+Thyme doesn't seem to be working any more. Have you tried [Timeroo](https://github.com/ErezVolk/Timeroo)?
